@@ -1,5 +1,6 @@
 # Data Scientist
 
+Technical Skills: Python, SQL
 ### Education
 University
 
